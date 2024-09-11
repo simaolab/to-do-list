@@ -6,7 +6,8 @@
 
 body{
     height: 100vh;
-    background: white;
+    
+    background: linear-gradient(135deg, #173677, #4e085f);
 }
 
 hr{
@@ -26,7 +27,7 @@ hr{
 .container{
     padding: 2em 2.5em;
     color: white;
-    background: linear-gradient(135deg, #173677, #4e085f);
+    background: white;
     box-shadow: 0 1em 2em rgba(0, 0, 0, 0.3);
     border-radius: 0.8em;
 }
